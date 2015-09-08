@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ZD THB Even
+Plugin Name: ZD THB Books
 Plugin URI: http://www.zdthb.com/zd_thb_books.php
 Description: WP Plugin for managing books
 Version: 0.1
